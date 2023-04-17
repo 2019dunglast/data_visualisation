@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.plot {
+    margin-bottom: 40px;
+}
+
+.plot-description {
+    margin-top: 10px;
+}
